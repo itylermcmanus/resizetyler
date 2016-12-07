@@ -793,8 +793,8 @@ img{
 
 	@media (max-height: 930px) { 
 		.box{
-	width: 175px;
-	height: 175px;
+	width: 250px;
+	height: 250px;
  
 			
 
@@ -809,15 +809,15 @@ img{
 
 		@media (max-height: 850px) { 
 		.box{
-	width: 175px;
-	height: 175px;
+	width: 300px;
+	height: 300px;
  
 			
 
 		}
 		.othercolor{
-		width: 150px;
-	height: 150px;
+		width: 250px;
+	height: 250px;
  
 			
 		}
@@ -825,15 +825,15 @@ img{
 
 		@media (max-height: 800px) { 
 		.box{
-	width: 150px;
-	height: 150px;
+	width: 350px;
+	height: 350px;
  
 			
 
 		}
 		.othercolor{
-		width: 150px;
-	height: 150px;
+		width: 300px;
+	height: 300px;
  
 			
 		}
@@ -841,15 +841,15 @@ img{
 
 		@media (max-height: 750px) { 
 		.box{
-	width: 150px;
-	height: 150px;
+	width: 400px;
+	height: 400px;
  
 			
 
 		}
 		.othercolor{
-		width: 125px;
-	height: 125px;
+		width: 300px;
+	height: 300px;
  
 			
 		}
@@ -857,15 +857,15 @@ img{
 
 		@media (max-height: 700px) { 
 		.box{
-	width: 125px;
-	height: 125px;
+	width: 400px;
+	height: 400px;
  
 			
 
 		}
 		.othercolor{
-		width: 125px;
-	height: 125px;
+		width: 350px;
+	height: 350px;
  
 			
 		}
@@ -873,15 +873,15 @@ img{
 
 		@media (max-height: 650px) { 
 		.box{
-	width: 100px;
-	height: 100px;
+	width: 400px;
+	height: 400px;
  
 			
 
 		}
 		.othercolor{
-		width: 125px;
-	height: 125px;
+		width: 400px;
+	height: 400px;
  
 			
 		}
@@ -889,15 +889,15 @@ img{
 
 		@media (max-height: 600px) { 
 		.box{
-	width: 100px;
-	height: 100px;
+	width: 450px;
+	height: 450px;
  
 			
 
 		}
 		.othercolor{
-		width: 100px;
-	height: 100px;
+		width: 400px;
+	height: 400px;
  
 			
 		}
@@ -905,15 +905,15 @@ img{
 
 		@media (max-height: 550px) { 
 		.box{
-	width: 100px;
-	height: 100px;
+	width: 500px;
+	height: 500px;
  
 			
 
 		}
 		.othercolor{
-		width: 80px;
-	height: 80px;
+		width: 450px;
+	height: 450px;
  
 			
 		}
@@ -921,15 +921,15 @@ img{
 
 		@media (max-height: 500px) { 
 		.box{
-width: 100px;
-	height: 100px;
+width: 500px;
+	height: 500px;
  
 			
 
 		}
 		.othercolor{
-		width: 100px;
-	height: 100px;
+		width: 500px;
+	height: 500px;
  
 			
 		}
@@ -937,30 +937,30 @@ width: 100px;
 
 		@media (max-height: 450px) { 
 		.box{
-	width: 100px;
-	height: 100px;
+	width: 550px;
+	height: 550px;
  
 			
 
 		}
 		.othercolor{
-	width: 110px;
-	height: 110px;
+	width: 500px;
+	height: 500px;
 			
 		}
 	}
 
 		@media (max-height: 400px) { 
 		.box{
-	width: 120px;
-	height: 120px;
+	width: 550px;
+	height: 550px;
  
 			
 
 		}
 		.othercolor{
-	width: 120px;
-	height: 120px;
+	width: 550px;
+	height: 550px;
  
 			
 		}
@@ -968,15 +968,15 @@ width: 100px;
 
 		@media (max-height: 350px) { 
 		.box{
-width: 120px;
-	height: 120px;
+width: 600px;
+	height: 600px;
  
 			
 
 		}
 		.othercolor{
-		width: 120px;
-	height: 120px;
+		width: 550px;
+	height: 550px;
  
 			
 		}
